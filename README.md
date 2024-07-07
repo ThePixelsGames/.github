@@ -1,2 +1,2 @@
-# .github
-The The Pixels readme.
+<img src="./pixelsmc.png"/>
+&nbsp
