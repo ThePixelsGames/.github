@@ -1,2 +1,2 @@
-<img src="./pixelsmc.png"/>
+<img src="../pixelsmc.png"/>
 &nbsp
